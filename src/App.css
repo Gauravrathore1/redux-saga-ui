@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.dashboard-libraty-text{
+  margin-left: -30px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

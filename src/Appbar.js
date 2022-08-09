@@ -26,7 +26,7 @@ const drawerWidth = 240;
       >
         <Toolbar>
           <Typography variant="h6" noWrap component="div">
-            Permanent drawer
+            Books Manager
           </Typography>
         </Toolbar>
       </AppBar>
